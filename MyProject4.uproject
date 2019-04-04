@@ -3,7 +3,6 @@
 	"EngineAssociation": "4.21",
 	"Category": "",
 	"Description": "",
-	"Enterprise": true,
 	"Modules": [
 		{
 			"Name": "MyProject4",
@@ -17,6 +16,10 @@
 	"Plugins": [
 		{
 			"Name": "ApexDestruction",
+			"Enabled": true
+		},
+		{
+			"Name": "SimpleHMD",
 			"Enabled": true
 		}
 	]
