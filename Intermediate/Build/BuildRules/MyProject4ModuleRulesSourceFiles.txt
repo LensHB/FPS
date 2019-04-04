@@ -1,3 +1,0 @@
-F:\Study\FPS\Source\MyProject4\MyProject4.Build.cs
-F:\Study\FPS\Source\MyProject4.Target.cs
-F:\Study\FPS\Source\MyProject4Editor.Target.cs
